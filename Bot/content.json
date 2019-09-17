@@ -1,0 +1,108 @@
+{"intents": [
+        {"tag": "1",
+         "patterns": ["Hi","Is anyone there?", "Hello","Ahum" , "Oye" , "Bot"],
+         "responses": ["Hi", "Hello", "Hi there, how can I help?"],
+         "context_set": ""
+        },
+        {"tag": "2",
+         "patterns": ["Who are you","What is you name","Do you have a name"],
+         "responses": ["Hi, I'm Weave", "My name is Weave"],
+         "context_set": ""
+        },
+        {"tag": "3",
+         "patterns": ["What is optyyl","Tell me about optyyl"],
+         "context_set": "Optyyl is a IT company "
+        },
+        {"tag": "4",
+         "patterns": ["What events are available today","Any event", "Party"],
+         "responses": ["Optyyl team going to live their Product soon","No event yet", "Thinking about Pizza party!!"],
+         "context_set": ""
+        },
+        {"tag": "5",
+         "patterns": ["How are you","What's up","How is doing"],
+         "responses": ["I'm fine, Thanks for asking.","I'm doing well"],
+         "context_set": ""
+        },
+        {"tag": "6",
+         "patterns": ["Bye", "See you later", "Goodbye"],
+         "responses": ["See you later, thanks for visiting", "Have a nice day", "Bye! Come back again soon."],
+         "context_set": ""
+        },
+        {"tag": "7",
+         "patterns": ["Thank you"],
+         "responses": ["You are welcome"],
+         "context_set": ""
+        },
+         {"tag": "8",
+         "patterns": ["Where is Optyyl","Optyyl"," Where is company","Where are you from","Which company you work for"],
+         "responses": ["I am work for Optyyl Technology ltd ,Optyyl is IT company in pakistan and Canada "],
+         "context_set": ""
+        },
+        {"tag": "9",
+         "patterns": ["Help","I need your help","i am in trouble","help please","Can you help me"],
+         "responses": ["Yes please tell me your problem","How can i help", "I am here for you",""],
+         "context_set": ""
+        },
+        {"tag": "10",
+         "patterns": ["Wao","you are awesome","great","Amazing","good","wow","stunning"],
+         "responses": [" Please Build me more "],
+         "context_set": ""
+        },
+        {"tag": "11",
+         "patterns": ["How to login Forum Site?","Forum","Site","Problem in Login Forum Site"],
+         "responses": [" Please visit the link https://forum.canscribe.com/ and use your credentials to log-in. "],
+         "context_set": ""
+        },
+        {"tag": "12",
+         "patterns": ["I am having a problem with my InScribe need help","I am having a problem with my Emdat and need help","I am having a problem with my Fluency or Foot Pedal and need help","I am having a problem with Foot Pedal and need help"],
+         "responses": ["Please visit the link https://canscribe.com/support/ and get in touch with Tech Support. The available agent will be there to assist you."],
+         "context_set": ""
+        },
+        {"tag": "13",
+         "patterns": ["How to login CanScribe Learning Platform?","login CanScribe Learning Platform"],
+         "responses": ["Please visit the link https://www.elearn.training/d2l/login to login our Learning Platform and continue to your course."],
+         "context_set": ""
+        },
+        {"tag": "14",
+         "patterns": ["I am having trouble with dictoscribe. When I push the play button on my foot pedal it won't play. I can fast forward and rewind but it won't advance when it is supposed to play","I am having trouble with dictoscribe in playing button"],
+         "responses": ["Please check your Update and Restart the computer. Use chrome/firefox ","please ensure that you are using only one file press to play or hold to play "],
+         "context_set": ""
+        },
+        {"tag": "15",
+         "patterns": ["Need your suggestion" , "Please Suggest"],
+         "responses": [" I am here for you, Please tell! ", "Yes Please , What kind of Suggestion you need"],
+         "context_set": ""
+        },
+        {"tag": "16",
+         "patterns": ["You now me?" , "Who i am ?"],
+         "responses": ["Yes You are my Value-able User"],
+         "context_set": ""
+        },
+        {"tag": "17",
+         "patterns": ["What is waeve" , "Weave","Explain weave"],
+         "responses": ["Weave is a Online Learning Program developed by Optyyl Ltd"],
+         "context_set": ""
+        },
+        {"tag": "18",
+         "patterns": ["Alright"],
+         "responses": ["Yes"],
+         "context_set": ""
+        },
+        {"tag": "19",
+         "patterns": ["How to restart the computer" , "How to restart laptop"],
+         "responses": ["Go to start and press shutdown where you found the restart button"],
+         "context_set": ""
+        },
+        {"tag": "20",
+         "patterns": ["My foot pedal is not pausing" ],
+         "responses": ["Please restart the Computer"],
+         "context_set": ""
+        },
+        {"tag": "21",
+         "patterns": ["It works","It works Thanks you" ],
+         "responses": ["Thank you for your visit"],
+         "context_set": ""
+        }
+
+   ]
+}

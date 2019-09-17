@@ -1,0 +1,7 @@
+vv-- b'2019-07-23 01:05:13' : TableauRestApiConnection26 query_groups started --------vv
+  vv-- b'2019-07-23 01:05:13' : TableauRestApiConnection26 query_resource started --------vv
+       2019-07-23 01:05:13 : Request GET  http://dashboard.crgroup.com/api/2.6/sites/9d3d1fcf-3e74-45ea-a072-ffb47f757cac/groups?pageNumber=1
+       2019-07-23 01:05:13 : Response is of type <class 'bytes'>
+       2019-07-23 01:05:13 : Request succeeded
+  ^^-- b'2019-07-23 01:05:13' : TableauRestApiConnection26 query_resource ended --------^^
+^^-- b'2019-07-23 01:05:13' : TableauRestApiConnection26 query_groups ended --------^^
